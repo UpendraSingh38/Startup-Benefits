@@ -225,16 +225,6 @@ These were intentionally scoped out to focus on core architecture and UX.
 
 ---
 
-## 📦 Deployment
-
-Deployment is optional. The application is designed to be easily deployable using:
-
-* Frontend: Vercel
-* Backend: Render / Railway
-* Database: MongoDB Atlas
-
----
-
 ## 📝 Final Notes
 
 This project emphasizes:
