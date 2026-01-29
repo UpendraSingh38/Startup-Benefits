@@ -9,7 +9,11 @@ A full-stack web application that helps early-stage startups access exclusive Sa
 Early-stage startups, indie hackers, and small teams often struggle to afford premium SaaS tools. This platform solves that problem by offering:
 
 * Curated SaaS deals (cloud, marketing, analytics, productivity)
-* A mix of **public** and **restricted** deals
+* A mix of **public** and **restricted** deals<img width="1806" height="900" alt="Screenshot 2026-01-29 133841" src="https://github.com/user-attachments/assets/45755724-e17b-4731-890a-8b8002916783" />
+<img width="1887" height="900" alt="Screenshot 2026-01-29 133827" src="https://github.com/user-attachments/assets/3e7ab667-849c-43b4-b5d6-4d472774da0a" />
+<img width="1868" height="955" alt="Screenshot 2026-01-29 133815" src="https://github.com/user-attachments/assets/29ab946d-e9ad-4fd5-9741-dac67aacdfc2" />
+
+
 * A verification-based access system
 * Clear claim tracking for users
 
