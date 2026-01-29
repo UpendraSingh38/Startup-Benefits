@@ -3,7 +3,7 @@ import { api } from "@/lib/api.ts";
 import { useEffect, useState } from "react";
 import React, { use } from "react";
 import { motion } from "framer-motion";
-import Link from "next/link";
+import Link from "next/link"
 
 export default function Deal({ params }: { params: Promise<{ id: string }> }): React.ReactNode {
   const resolvedParams = use(params);
